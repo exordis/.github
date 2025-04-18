@@ -1,1 +1,1 @@
-[Documentation] (https://docs.exordis.com)
+[Documentation](https://docs.exordis.com)
